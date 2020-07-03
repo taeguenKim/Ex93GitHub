@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         int a=10;
         int b=20;
+
+        //주석입니다
         
     }
 }
